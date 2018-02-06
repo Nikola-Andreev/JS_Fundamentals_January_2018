@@ -72,39 +72,3 @@ function solve(arr) {
 // solve([ { system: 'Theta', candidate: 'Kim Jong Andromeda', votes: 10 },
 //     { system: 'Tau',   candidate: 'Kim Jong Andromeda', votes: 200 },
 //     { system: 'Tau',   candidate: 'Flying Shrimp',      votes: 150 } ])
-
-solve([
-{system: 'Theta', candidate: 'Octocat', votes: 10},
-{system: 'Theta', candidate: 'Space Cow', votes: 10},
-{system: 'Theta', candidate: 'Huge Manatee', votes: 10},
-{system: 'Theta', candidate: 'Flying Shrimp', votes: 10},
-{system: 'Theta', candidate: 'Octocat', votes: 1},
-{system: 'Tau', candidate: 'Octocat', votes: 30},
-{system: 'Tau', candidate: 'Space Cow', votes: 30},
-{system: 'Tau', candidate: 'Huge Manatee', votes: 30},
-{system: 'Tau', candidate: 'Flying Shrimp', votes: 30},
-{system: 'Tau', candidate: 'Space Cow', votes: 1},
-{system: 'Sigma', candidate: 'Octocat', votes: 10},
-{system: 'Sigma', candidate: 'Space Cow', votes: 10},
-{system: 'Sigma', candidate: 'Huge Manatee', votes: 10},
-{system: 'Sigma', candidate: 'Flying Shrimp', votes: 10},
-{system: 'Sigma', candidate: 'Huge Manatee', votes: 1},
-{system: 'Omicron', candidate: 'Octocat', votes: 10},
-{system: 'Omicron', candidate: 'Space Cow', votes: 10},
-{system: 'Omicron', candidate: 'Huge Manatee', votes: 11},
-{system: 'Omicron', candidate: 'Flying Shrimp', votes: 10},
-{system: 'Omicron', candidate: 'Flying Shrimp', votes: 1},
-{system: 'Omega', candidate: 'Huge Manatee', votes: 10},
-{system: 'Theta', candidate: 'Octocat', votes: 1},
-{system: 'Sigma', candidate: 'Huge Manatee', votes: 2},
-{system: 'Tau', candidate: 'Octocat', votes: 10},
-{system: 'Omega', candidate: 'Huge Manatee', votes: 10},
-{system: 'Omega', candidate: 'Huge Manatee', votes: 10},
-{system: 'Omega', candidate: 'Huge Manatee', votes: 10},
-{system: 'Omega', candidate: 'Octocat', votes: 10}])
-
-// Octocat wins with 173 votes
-// Runner up: Huge Manatee
-// Omega: 50
-// Sigma: 43
-// Omicron: 42
